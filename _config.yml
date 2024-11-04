@@ -21,8 +21,8 @@ repository               : "Vinceli2401/vinceli2401.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "SideVince.png"
-  name             : "Description"
+  avatar           : "SideVince.jpg"
+  name             : "Bio:"
   pronouns         : "he/him, they/them" # example: "she/her"  
   bio              : "I am a college freshman dedicating a career in bioinformatics~"
   location         : "Originally Texas"
