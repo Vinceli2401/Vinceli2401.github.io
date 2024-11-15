@@ -5,6 +5,7 @@
 # prevent it from being included in the site.
 
 main:
+=begin
   - title: "Publications"
     url: /publications/
 
@@ -22,6 +23,7 @@ main:
     
   - title: "CV"
     url: /cv/
+=end
     
   - title: "Guide"
     url: /markdown/
