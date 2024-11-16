@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Vince Li"
 title_separator          : "-"
 name                     : &name "Vince Li"
-description              : &description "UIUC CS💻&AS🐦 2024."
+description              : &description "UIUC CS & AS 2028"
 url                      : "https://vinceli2401.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Vinceli2401/vinceli2401.github.io"
@@ -21,11 +21,11 @@ repository               : "Vinceli2401/vinceli2401.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "CameraVince.jpg"
+  avatar           : "CameraVinceCropped.jpg"
   name             : "Bio:"
   pronouns         : "he/him, they/them" # example: "she/her"  
-  bio              : "I am a college freshman dedicating a career in bioinformatics~"
-  location         : "Originally Texas"
+  bio              : "I am a college freshman dedicating a career in computational sciences."
+  location         : "Texas"
   employer         : "University of Illinois, Champaign"
   uri              : "vinceli2401.github.io" # URL
   email            : "vincel2@illinois.edu" 

@@ -5,25 +5,27 @@
 # prevent it from being included in the site.
 
 main:
-=begin
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+# - title: "Publications"
+#   url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
+# - title: "Talks"
+#   url: /talks/    
+
+# - title: "Teaching"
+#   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+# - title: "Portfolio"
+#   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+# - title: "Blog Posts"
+#   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-=end
-    
-  - title: "Guide"
-    url: /markdown/
+# - title: "CV"
+#   url: /cv/
+
+#- title: "Guide"
+# url: /markdown/
+
+  - title: "Sialia Tech"
+    url: https://sialia.tech
