@@ -13,6 +13,10 @@ My research areas include biostatistics, bioinformatics and computational biolog
 
 You can view my other personal site here: [Sialia Tech](https://sialia.tech).
 
+I also built the framework of a wikipedia for a group project in my high school. [2021-iGEM](https://2021.igem.org/Team:GreatBay_SCIE).
+
+If you would like to contact me, please send your requests to my school email. I will try my best to respond in two days.
+
 {% comment %}
 I was born in Texas, then I spent some years in China, and now I am an Illini.
 
